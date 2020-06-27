@@ -1,1 +1,1 @@
-
+The test.mp4 is the video on which the model 'unique2.h5' can be tested using the 'camera.py' python file.

@@ -1,0 +1,1 @@
+This folder contains the 'camera.py' file that can be used with the 'unique2.h5' model to integrate with real-time camera system (Webcam for this case) or testing on a video file.

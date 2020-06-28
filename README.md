@@ -2,6 +2,7 @@
 This repository contains all the resources used to create the Softmax Classification Model.
 
 The resources are distributed in various folders.
+
 Integrate - The folder contains the 'camera.py' that uses the model 'unique2.h5' to predict on the 'test.mp4'
             and outputs 'test_output.mp4'.
 
